@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @imperio-global
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 imperio-global/imperio-global is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -110,41 +103,7 @@ You can click the Preview link to take a look at your changes.
         <p>- Marketing y estrategias globales</p>
     </div>
     <div id="registro" class="container">
-        <h2>Zona de Registro</h2>
-        <div class="form-container">
-            <form>
-                <label for="reg-name">Nombre:</label>
-                <input type="text" id="reg-name" name="name" required>
+ REGISTRO 
+ +54 9 1170 968364
                 
-                <label for="reg-email">Correo Electrónico:</label>
-                <input type="email" id="reg-email" name="email" required>
-                
-                <label for="reg-password">Contraseña:</label>
-                <input type="password" id="reg-password" name="password" required>
-                
-                <button type="submit">Registrarse</button>
-            </form>
-        </div>
-    </div>
-    <div id="contacto" class="container">
-        <h2>Contacto</h2>
-        <div class="form-container">
-            <form>
-                <label for="name">Nombre:</label>
-                <input type="text" id="name" name="name" required>
-                
-                <label for="email">Correo Electrónico:</label>
-                <input type="email" id="email" name="email" required>
-                
-                <label for="message">Mensaje:</label>
-                <textarea id="message" name="message" rows="5" required></textarea>
-                
-                <button type="submit">Enviar</button>
-            </form>
-        </div>
-    </div>
-    <footer>
-        <p>© 2024 Imperio Global. Todos los derechos reservados.</p>
-    </footer>
-</body>
-</html>
+           
